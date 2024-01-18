@@ -1,0 +1,13 @@
+Distances between mitochondrial genomes were calculated using the gzip-based compression method and the numbers on page 26 of the Beyond Sequence Alignment presentation.:
+
+
+Distances between mitochondrial genomes of Canis Lupus and Felis Catus is 0.8501
+Distances between mitochondrial genomes of Canis Lupus and Mus Musculus is 0.8661
+Distances between mitochondrial genomes of Canis Lupus and Sus Scrofa is 0.8613
+Distances between mitochondrial genomes of Canis Lupus and Ursus Arctos is 0.8529
+Distances between mitochondrial genomes of Felis Catus and Mus Musculus is 0.8693
+Distances between mitochondrial genomes of Felis Catus and Sus Scrofa is 0.8463
+Distances between mitochondrial genomes of Felis Catus and Ursus Arctos is 0.8576
+Distances between mitochondrial genomes of Mus Musculus and Sus Scrofa is 0.8723
+Distances between mitochondrial genomes of Mus Musculus and Ursus Arctos is 0.8748
+Distances between mitochondrial genomes of Sus Scrofa and Ursus Arctos is 0.8602
